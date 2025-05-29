@@ -25,9 +25,11 @@ This site showcases my skills, projects, experience, and contact details in a cl
 ## 📸 Screenshots
 
 ![Home Section](./screenshots/home.png)
-![Projects Section](./screenshots/projects.png)
-
-*(Add your own screenshots in a `/screenshots` folder)*
+![Skill Section](./screenshots/skill.png)
+![Projects Section](./screenshots/project.png)
+![Experience Section](./screenshots/experience.png)
+![Education Section](./screenshots/education.png)
+![Contact Section](./screenshots/contact.png)
 
 ## 📂 Folder Structure
 
