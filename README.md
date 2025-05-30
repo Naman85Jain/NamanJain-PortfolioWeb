@@ -5,7 +5,7 @@ This site showcases my skills, projects, experience, and contact details in a cl
 
 ## 🚀 Live Preview
 
-🌍 [View Portfolio](https://your-portfolio-link.com)
+🌍 [View Portfolio](https://namanjain404.netlify.app/)
 
 ## 📁 Tech Stack
 
