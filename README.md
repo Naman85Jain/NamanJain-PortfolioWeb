@@ -74,7 +74,7 @@ portfolio/
 
 Want to connect?
 
-- Email: worknamana404@gmail.com
+- Email: worknaman404@gmail.com
 - Phone: +91-8591875085
 - LinkedIn: [Naman Jain](https://www.linkedin.com/in/namanjain85/)
 
